@@ -1,5 +1,6 @@
 [
     {
+        "remote": "motosung",
         "repository": "android_device_motorola_exynos9610-common",
         "target_path": "device/motorola/exynos9610-common"
     }
